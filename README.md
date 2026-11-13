@@ -1,5 +1,5 @@
 # 💫 About Me:
-Just a telecommunications student with nothing to do.
+The galaxy is vast.
 
 
 # 💻 Tech Stack:
