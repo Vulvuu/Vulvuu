@@ -1,5 +1,5 @@
 # Vulvuu
-The galaxy is vast.
+Target hit.
 
 
 # 💻 Tech Stack:
